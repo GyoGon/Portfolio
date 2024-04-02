@@ -8,16 +8,37 @@ i18n
     resources: {
       en: {
         translation: {
-          "About Me": "About Me",
-          "I am a passionate developer...": "I am a passionate developer with extensive experience in modern web technologies. I love learning new things and working on challenging projects.",
+          "home": "Home",
+          "home_title": "Welcome to My Portfolio!",
+          "home_text": "I'm a full-stack developer with a passion for building beautiful and functional websites and applications.",
+          "about_me": "About Me",
+          "about_me_text": "I'm a full-stack developer with a passion for building beautiful and functional websites and applications.",
+          "skills": "Skills",
+          "projects": "Projects",
+
+          "contact": "Contact",
+          "contact_text": "Ready to work together? Contact me!",
+          "english": "ENG",
+          "spanish": "ESP",
         }
       },
       es: {
         translation: {
-          "About Me": "Sobre mí",
-          "I am a passionate developer...": "Soy un desarrollador apasionado con una amplia experiencia en tecnologías web modernas. Me encanta aprender nuevas cosas y trabajar en proyectos desafiantes."
+          "home": "Inicio",
+          "home_title": "¡Bienvenido a Mi Portafolio!",
+          "home_text": "¡Soy un desarrollador full-stack con pasión por construir sitios web y aplicaciones hermosas y funcionales.",
+          "about_me": "Sobre Mí",
+          "about_me_text": "Soy un desarrollador full-stack con pasión por construir sitios web y aplicaciones hermosas y funcionales.",
+          "skills": "Habilidades",
+          "projects": "Proyectos",
+
+          "contact": "Contacto",
+          "contact_text": "¿Listo para trabajar juntos? ¡Contáctame!",
+          "english": "ING",
+          "spanish": "ESP",
         }
       }
+    
     },
     lng: "en",
     fallbackLng: "en",
