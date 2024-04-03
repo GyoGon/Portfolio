@@ -7,6 +7,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
 import Skills from '../components/Skills.jsx';
+import ProjectCard from '../components/ProyectCards.jsx';
 import { useTranslation } from 'react-i18next';
 const Home = () => {
   const scrollToHome = () => {
@@ -84,12 +85,9 @@ const Home = () => {
         <h2 className="text-2xl font-bold mb-4 text-red-300 text-center">
           {t('projects')}
         </h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          <div className="bg-indigo-600 p-4 rounded-lg text-center text-white">Project 1</div>
-          <div className="bg-indigo-600 p-4 rounded-lg text-center text-white">Project 2</div>
-          <div className="bg-indigo-600 p-4 rounded-lg text-center text-white">Project 3</div>
-          <div className="bg-indigo-600 p-4 rounded-lg text-center text-white">Project 4</div>
-        </div>
+        
+          <ProjectCard/>
+        
       </section>
       {/* Sección "Contact" */}
       <section className=" mx-auto px-10 py-10 min-h-screen" ref={contactRef}>
