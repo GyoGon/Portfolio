@@ -4,7 +4,7 @@ import Home from '../pages/Home';
 
 export default function AppRouter() {
     return (
-        <Router>
+        <Router basename="/Portfolio">
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="*" element={<Navigate to="/" />} />
