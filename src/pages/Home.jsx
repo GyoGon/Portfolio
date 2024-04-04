@@ -29,7 +29,7 @@ const Home = () => {
   return (
     <div className="dark:bg-indigo-950 min-h-screen">
       <Header scrollToHome={() => scrollToHome()} scrollToAbout={() => scrollToRef(aboutRef)} scrollToProjects={() => scrollToRef(projectsRef)} scrollToContact={() => scrollToRef(contactRef)} />
-      <main className="container mx-auto px-10 py-10 min-h-screen">
+      <main className="container mx-auto px-10 py-10 min-h-screen pt-60 sm:pt-0">
         <section className="grid grid-cols-1 md:grid-cols-2 gap-8" ref={scrollToHome}>
           <div className="text-center flex flex-col justify-center my-10">
             <h2 className="text-2xl font-bold mb-4 text-red-300">{t('home_title')}</h2>
@@ -39,7 +39,7 @@ const Home = () => {
           </div>
           <div className="mx-auto text-center">
             <div className="flex justify-center">
-              <img src={me} alt="developer" className="w-96 h-96 rounded-full bg-auto" />
+              <img src={me} alt="developer" className="w-64 sm:w-96 h-64 sm:h-96 rounded-full bg-auto" />
             </div>
             <div className="flex justify-center space-x-4 mt-10">
               <a href="https://github.com/GyoGon" target="_blank" rel="noopener noreferrer" className="focus:outline-none hover:bg-violet-600">
@@ -90,7 +90,7 @@ const Home = () => {
         
       </section>
       {/* Sección "Contact" */}
-      <section className=" mx-auto px-10 py-10 min-h-screen" ref={contactRef}>
+      <section className=" mx-auto px-10 py-10 " ref={contactRef}>
         <h2 className="text-2xl font-bold mb-4 text-red-300 text-center">
           {t('contact')}
         </h2>
@@ -100,7 +100,7 @@ const Home = () => {
           </p>
         </div>
         <div className="flex justify-center mt-10">
-          <button className="bg-indigo-600 p-4 rounded-lg text-center text-white">Contact Me</button>
+          <a href="mailto:giovannip.gonzalezh@gmail.com" className="bg-indigo-600 p-4 rounded-lg text-center text-white">Contact Me</a>
         </div>
       </section>
       <footer className="dark:bg-slate-800 py-4">

@@ -38,7 +38,11 @@ nav {
         list-style: none;
     }
     nav ul li {
-        margin: 0 20px;
+         /* alinear los elementos al centro */
+        display: flex;
+        align-items: center;
+      
+
     }
     nav ul li a {
         text-decoration: none;
@@ -91,6 +95,9 @@ nav {
       margin-bottom: 1em;
       font-size: .9em;
       padding: 0 1em;
+      /* padding top */
+      padding-top: 1em;
+
     }
     .card-img {
       border-top-left-radius: 10px;
@@ -98,7 +105,8 @@ nav {
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-top: auto;
+      /* alinear img con el card link de abajo*/
+      
     }
     .card-link {
       width: 100%;

@@ -15,27 +15,27 @@ const Header = ({ scrollToHome, scrollToAbout, scrollToProjects, scrollToContact
       <button onClick={scrollToHome} className="text-xs sm:text-2xl font-bold text-red-300">
           <img src={logo} alt="logo" className="w-16 h-16" />
       </button>
-        <button onClick={() => setIsOpen(!isOpen)} className="sm:hidden text-white">
+        <button onClick={() => setIsOpen(!isOpen)} className="sm:hidden text-white border-2 border-white rounded p-1 px-2">
           ☰
         </button>
-        <nav className={`flex flex-col items-center sm:flex-row ${isOpen ? 'block' : 'hidden'} sm:block`}>
+        <nav className={`flex flex-col items-center sm:flex-row text-center ${isOpen ? 'block' : 'hidden'} sm:block`}>
           <ul className="flex flex-col sm:flex-row items-center justify-center ">
-            <li className="mt-2 sm:mt-0 ml-4 border-r border-white pr-10 flex items-center justify-center">
+            <li className="mt-2 sm:mt-0 sm:ml-4 sm:border-r border-b sm:border-b-0 border-white sm:pr-4 flex items-center justify-center text-center">
               <button onClick={scrollToHome} className="text-xs sm:text-base text-white hover:bg-violet-600 px-2 sm:px-4 py-1 sm:py-2 rounded">
                 {t('home')}
               </button>
             </li>
-            <li className="mt-2 sm:mt-0 ml-4 border-r border-white pr-10 flex items-center justify-center">
+            <li className="mt-2 sm:mt-0 sm:ml-4 sm:border-r border-b sm:border-b-0 border-white sm:pr-4 flex items-center justify-center text-center">
               <button onClick={scrollToAbout} className="text-xs sm:text-base text-white hover:bg-violet-600 px-2 sm:px-4 py-1 sm:py-2 rounded">
                 {t('about_me')}
               </button>
             </li>
-            <li className="mt-2 sm:mt-0 ml-4 border-r border-white pr-10 flex items-center justify-center">
+            <li className="mt-2 sm:ml-4 sm:mt-0 sm:border-r border-b sm:border-b-0 border-white sm:pr-4 flex items-center justify-center text-center">
               <button onClick={scrollToProjects} className="text-xs sm:text-base text-white hover:bg-violet-600 px-2 sm:px-4 py-1 sm:py-2 rounded">
                 {t('projects')}
               </button>
             </li>
-            <li className="mt-2 sm:mt-0 ml-4 pr-10 flex items-center justify-center">
+            <li className="mt-2 sm:ml-4 sm:mt-0 sm:pr-4  flex items-center justify-center text-center">
               <button onClick={scrollToContact} className="text-xs sm:text-base text-white hover:bg-violet-600 px-2 sm:px-4 py-1 sm:py-2 rounded">
                 {t('contact')}
               </button>
