@@ -12,12 +12,14 @@ const Header = ({ scrollToHome, scrollToAbout, scrollToProjects, scrollToContact
   return (
     <header className="fixed top-0 left-0 w-full bg-slate-950 bg-gradient-to-r from-indigo-950 via-purple-500 to-indigo-600 ">
       <div className="container mx-auto flex items-center justify-center flex-col sm:flex-row">
-      <button onClick={scrollToHome} className="text-xs sm:text-2xl font-bold text-red-300">
-          <img src={logo} alt="logo" className="w-16 h-16" />
-      </button>
-        <button onClick={() => setIsOpen(!isOpen)} className="sm:hidden text-white border-2 border-white rounded p-1 px-2">
-          ☰
-        </button>
+        <div className="flex items-center justify-between w-full sm:w-auto px-6">
+          <button onClick={scrollToHome} className="text-xs sm:text-2xl font-bold text-red-300">
+            <img src={logo} alt="logo" className="w-16 h-16" />
+          </button>
+          <button onClick={() => setIsOpen(!isOpen)} className="sm:hidden text-white border-2 border-white rounded p-1 px-2 justify-center">
+            ☰
+          </button>
+        </div>
         <nav className={`flex flex-col items-center sm:flex-row text-center ${isOpen ? 'block' : 'hidden'} sm:block`}>
           <ul className="flex flex-col sm:flex-row items-center justify-center ">
             <li className="mt-2 sm:mt-0 sm:ml-4 sm:border-r border-b sm:border-b-0 border-white sm:pr-4 flex items-center justify-center text-center">

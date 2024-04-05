@@ -39,13 +39,13 @@ i18n
 
           "contact": "Contacto",
           "contact_text": "¿Listo para trabajar juntos? ¡Contáctame!",
-          "english": "ING",
+          "english": "ENG",
           "spanish": "ESP",
         }
       }
     
     },
-    lng: "en",
+    lng: "es",
     fallbackLng: "en",
     interpolation: {
       escapeValue: false
