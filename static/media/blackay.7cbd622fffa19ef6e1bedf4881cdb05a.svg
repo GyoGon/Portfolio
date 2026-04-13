@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 355" width="600" height="355">
+  <!-- Background -->
+  <rect width="600" height="355" fill="#0f172a" rx="12"/>
+
+  <!-- Title -->
+  <text x="300" y="44" text-anchor="middle" font-family="monospace" font-size="18" fill="#00b8a9" font-weight="bold">Fleet Management SaaS · Backend</text>
+
+  <!-- Row 1 -->
+  <!-- Go pill -->
+  <rect x="40" y="65" width="100" height="38" rx="8" fill="#00ADD8" opacity="0.15" stroke="#00ADD8" stroke-width="1.5"/>
+  <text x="90" y="89" text-anchor="middle" font-family="monospace" font-size="14" fill="#00ADD8" font-weight="bold">Go</text>
+
+  <!-- GCP pill -->
+  <rect x="155" y="65" width="100" height="38" rx="8" fill="#4285F4" opacity="0.15" stroke="#4285F4" stroke-width="1.5"/>
+  <text x="205" y="89" text-anchor="middle" font-family="monospace" font-size="14" fill="#4285F4" font-weight="bold">GCP</text>
+
+  <!-- Firebase pill -->
+  <rect x="270" y="65" width="120" height="38" rx="8" fill="#FFCA28" opacity="0.15" stroke="#FFCA28" stroke-width="1.5"/>
+  <text x="330" y="89" text-anchor="middle" font-family="monospace" font-size="14" fill="#FFCA28" font-weight="bold">Firebase</text>
+
+  <!-- Python pill -->
+  <rect x="405" y="65" width="115" height="38" rx="8" fill="#3776AB" opacity="0.15" stroke="#3776AB" stroke-width="1.5"/>
+  <text x="462" y="89" text-anchor="middle" font-family="monospace" font-size="14" fill="#60a5fa" font-weight="bold">Python</text>
+
+  <!-- Row 2 -->
+  <!-- JavaScript pill -->
+  <rect x="40" y="118" width="120" height="38" rx="8" fill="#F7DF1E" opacity="0.12" stroke="#F7DF1E" stroke-width="1.5"/>
+  <text x="100" y="142" text-anchor="middle" font-family="monospace" font-size="13" fill="#fde68a">JavaScript</text>
+
+  <!-- TypeScript pill -->
+  <rect x="175" y="118" width="120" height="38" rx="8" fill="#3178C6" opacity="0.15" stroke="#3178C6" stroke-width="1.5"/>
+  <text x="235" y="142" text-anchor="middle" font-family="monospace" font-size="13" fill="#93c5fd">TypeScript</text>
+
+  <!-- Redis pill -->
+  <rect x="310" y="118" width="100" height="38" rx="8" fill="#DC382D" opacity="0.15" stroke="#DC382D" stroke-width="1.5"/>
+  <text x="360" y="142" text-anchor="middle" font-family="monospace" font-size="13" fill="#fca5a5">Redis</text>
+
+  <!-- Pub/Sub pill -->
+  <rect x="425" y="118" width="135" height="38" rx="8" fill="#4285F4" opacity="0.12" stroke="#4285F4" stroke-width="1.5"/>
+  <text x="492" y="142" text-anchor="middle" font-family="monospace" font-size="13" fill="#93c5fd">Pub/Sub</text>
+
+  <!-- Row 3 -->
+  <!-- Firestore pill -->
+  <rect x="40" y="171" width="120" height="38" rx="8" fill="#FFCA28" opacity="0.12" stroke="#FFCA28" stroke-width="1.5"/>
+  <text x="100" y="195" text-anchor="middle" font-family="monospace" font-size="13" fill="#FFCA28">Firestore</text>
+
+  <!-- Algolia pill -->
+  <rect x="175" y="171" width="110" height="38" rx="8" fill="#5468ff" opacity="0.15" stroke="#5468ff" stroke-width="1.5"/>
+  <text x="230" y="195" text-anchor="middle" font-family="monospace" font-size="13" fill="#a5b4fc">Algolia</text>
+
+  <!-- Cloud Run pill -->
+  <rect x="300" y="171" width="120" height="38" rx="8" fill="#34A853" opacity="0.12" stroke="#34A853" stroke-width="1.5"/>
+  <text x="360" y="195" text-anchor="middle" font-family="monospace" font-size="13" fill="#86efac">Cloud Run</text>
+
+  <!-- Cloud Scheduler pill -->
+  <rect x="435" y="171" width="130" height="38" rx="8" fill="#34A853" opacity="0.10" stroke="#34A853" stroke-width="1.5"/>
+  <text x="500" y="195" text-anchor="middle" font-family="monospace" font-size="12" fill="#86efac">Scheduler</text>
+
+  <!-- Row 4 -->
+  <!-- YOLO / AI pill -->
+  <rect x="40" y="224" width="120" height="38" rx="8" fill="#ff4444" opacity="0.12" stroke="#ff4444" stroke-width="1.5"/>
+  <text x="100" y="248" text-anchor="middle" font-family="monospace" font-size="13" fill="#fca5a5">YOLO · AI</text>
+
+  <!-- FastAPI pill -->
+  <rect x="175" y="224" width="110" height="38" rx="8" fill="#009688" opacity="0.12" stroke="#009688" stroke-width="1.5"/>
+  <text x="230" y="248" text-anchor="middle" font-family="monospace" font-size="13" fill="#5eead4">FastAPI</text>
+
+  <!-- Multi-tenant pill -->
+  <rect x="300" y="224" width="130" height="38" rx="8" fill="#8b5cf6" opacity="0.12" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="365" y="248" text-anchor="middle" font-family="monospace" font-size="13" fill="#c4b5fd">Multi-tenant</text>
+
+  <!-- Microservices pill -->
+  <rect x="445" y="224" width="120" height="38" rx="8" fill="#00b8a9" opacity="0.12" stroke="#00b8a9" stroke-width="1.5"/>
+  <text x="505" y="248" text-anchor="middle" font-family="monospace" font-size="11" fill="#00b8a9">Microservices</text>
+
+  <!-- Bottom label -->
+  <text x="300" y="330" text-anchor="middle" font-family="monospace" font-size="12" fill="#475569">Blackay · 2024 – Present</text>
+</svg>

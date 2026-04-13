@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <!-- Background -->
+  <rect width="600" height="300" fill="#0f172a" rx="12"/>
+
+  <!-- Title -->
+  <text x="300" y="48" text-anchor="middle" font-family="monospace" font-size="18" fill="#00b8a9" font-weight="bold">CAF Ivaras · Gym Management API</text>
+
+  <!-- Node.js pill -->
+  <rect x="40" y="80" width="110" height="40" rx="8" fill="#339933" opacity="0.15" stroke="#339933" stroke-width="1.5"/>
+  <text x="95" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#4ade80" font-weight="bold">Node.js</text>
+
+  <!-- Express pill -->
+  <rect x="165" y="80" width="110" height="40" rx="8" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="220" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#e2e8f0" font-weight="bold">Express</text>
+
+  <!-- MongoDB pill -->
+  <rect x="290" y="80" width="120" height="40" rx="8" fill="#47A248" opacity="0.15" stroke="#47A248" stroke-width="1.5"/>
+  <text x="350" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#86efac" font-weight="bold">MongoDB</text>
+
+  <!-- JWT pill -->
+  <rect x="425" y="80" width="80" height="40" rx="8" fill="#d97706" opacity="0.15" stroke="#d97706" stroke-width="1.5"/>
+  <text x="465" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#fbbf24">JWT</text>
+
+  <!-- Bcrypt pill -->
+  <rect x="40" y="140" width="100" height="40" rx="8" fill="#6366f1" opacity="0.15" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="90" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#a5b4fc">Bcrypt</text>
+
+  <!-- Fingerprint pill -->
+  <rect x="155" y="140" width="150" height="40" rx="8" fill="#ec4899" opacity="0.12" stroke="#ec4899" stroke-width="1.5"/>
+  <text x="230" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#f9a8d4">Fingerprint Auth</text>
+
+  <!-- XLSX pill -->
+  <rect x="320" y="140" width="90" height="40" rx="8" fill="#16a34a" opacity="0.15" stroke="#16a34a" stroke-width="1.5"/>
+  <text x="365" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#86efac">XLSX</text>
+
+  <!-- SendGrid pill -->
+  <rect x="425" y="140" width="120" height="40" rx="8" fill="#1890ff" opacity="0.12" stroke="#1890ff" stroke-width="1.5"/>
+  <text x="485" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#93c5fd">SendGrid</text>
+
+  <!-- RBAC pill -->
+  <rect x="40" y="200" width="100" height="40" rx="8" fill="#8b5cf6" opacity="0.12" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="90" y="225" text-anchor="middle" font-family="monospace" font-size="12" fill="#c4b5fd">Role-based</text>
+
+  <!-- Reservas pill -->
+  <rect x="155" y="200" width="110" height="40" rx="8" fill="#00b8a9" opacity="0.12" stroke="#00b8a9" stroke-width="1.5"/>
+  <text x="210" y="225" text-anchor="middle" font-family="monospace" font-size="13" fill="#5eead4">Reservations</text>
+
+  <!-- Métricas pill -->
+  <rect x="280" y="200" width="110" height="40" rx="8" fill="#f97316" opacity="0.12" stroke="#f97316" stroke-width="1.5"/>
+  <text x="335" y="225" text-anchor="middle" font-family="monospace" font-size="13" fill="#fdba74">Body Metrics</text>
+
+  <!-- Moment pill -->
+  <rect x="405" y="200" width="140" height="40" rx="8" fill="#64748b" opacity="0.15" stroke="#64748b" stroke-width="1.5"/>
+  <text x="475" y="225" text-anchor="middle" font-family="monospace" font-size="13" fill="#94a3b8">Moment.js · TZ</text>
+
+  <!-- Bottom label -->
+  <text x="300" y="278" text-anchor="middle" font-family="monospace" font-size="12" fill="#475569">Internship · Duoc UC · 2023</text>
+</svg>
