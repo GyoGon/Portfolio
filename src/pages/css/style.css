@@ -8,7 +8,7 @@ body {
   width: 100%;
   height: 100%;
   position: relative;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
 }
 
 /* Estilos para el fondo */
@@ -31,7 +31,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
 }
     nav ul {
         display: flex;
@@ -75,7 +75,7 @@ nav {
     .card-header {
       width: 100%;
       height: 50px;
-      background-color: #00b8a9;
+      background-color: #4f46e5;
       border-top-left-radius: 10px;
       border-top-right-radius: 10px;
       display: flex;
@@ -111,7 +111,7 @@ nav {
     .card-link {
       width: 100%;
       height: 50px;
-      background-color: #00b8a9;
+      background-color: #4f46e5;
       border-bottom-left-radius: 10px;
       border-bottom-right-radius: 10px;
       display: flex;

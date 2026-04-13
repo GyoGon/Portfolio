@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <!-- Left flame -->
+  <path d="M12 40 L19.5 17 L24 28 Z" fill="#FFA000"/>
+  <!-- Right outer flame -->
+  <path d="M36 40 L26 6 L24 28 Z" fill="#F57C00"/>
+  <!-- Center overlap -->
+  <path d="M12 40 L24 28 L36 40 Z" fill="#FFCA28"/>
+  <!-- Inner right flame -->
+  <path d="M24 28 L26 6 L36 40 Z" fill="#FF8F00"/>
+</svg>
