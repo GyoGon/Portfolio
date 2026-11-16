@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2d397684.css",
-    "main.js": "/Portfolio/static/js/main.fe2af472.js",
+    "main.js": "/Portfolio/static/js/main.6a0c3521.js",
     "static/js/453.612f53fa.chunk.js": "/Portfolio/static/js/453.612f53fa.chunk.js",
     "static/media/giovanni.jpg": "/Portfolio/static/media/giovanni.7eed959e44d7523f8341.jpg",
     "static/media/go.svg": "/Portfolio/static/media/go.ba0624d0fb8d1a5dc75de51bd033f051.svg",
@@ -11,6 +11,7 @@
     "static/media/spacio.svg": "/Portfolio/static/media/spacio.c37d0a526408caa592bccd25bd99b40d.svg",
     "static/media/caf.svg": "/Portfolio/static/media/caf.f7d2e77950e4093b672d8ffd335cd897.svg",
     "static/media/comuniapp.svg": "/Portfolio/static/media/comuniapp.0ba9bbb2c4aaea3c96663d194b624ff5.svg",
+    "static/media/opm.svg": "/Portfolio/static/media/opm.884834c3bfb5cbfe50de73ec7465f1c1.svg",
     "static/media/gestion-gastos.svg": "/Portfolio/static/media/gestion-gastos.3d07cf099ade12015ff5ef61c7ad5087.svg",
     "static/media/mySQL.svg": "/Portfolio/static/media/mySQL.ebf5eeaef302d497971c5bbd898566e4.svg",
     "static/media/react.svg": "/Portfolio/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
@@ -27,11 +28,11 @@
     "static/media/fastapi.svg": "/Portfolio/static/media/fastapi.11c42817d64494d3fe7cea75299d45c5.svg",
     "static/media/next.svg": "/Portfolio/static/media/next.17fe1720dcc66b60fc1a5a70d104d1dd.svg",
     "main.2d397684.css.map": "/Portfolio/static/css/main.2d397684.css.map",
-    "main.fe2af472.js.map": "/Portfolio/static/js/main.fe2af472.js.map",
+    "main.6a0c3521.js.map": "/Portfolio/static/js/main.6a0c3521.js.map",
     "453.612f53fa.chunk.js.map": "/Portfolio/static/js/453.612f53fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d397684.css",
-    "static/js/main.fe2af472.js"
+    "static/js/main.6a0c3521.js"
   ]
 }
