@@ -10,7 +10,7 @@ i18n
         translation: {
           "home": "Home",
           "home_title": "Hi, I'm Giovanni Gonzalez",
-          "home_text": "Full Stack Developer with 1 year of professional experience, graduated in Computer Engineering from Duoc UC. I specialize in scalable backend development, microservices architecture, and cloud deployments on GCP. I've worked on real-time data processing systems, async messaging workflows, and AI-powered event validation using YOLO and Roboflow. Self-taught by nature, collaborative by choice — always looking to build robust, well-structured solutions. English B2 · Native Spanish.",
+          "home_text": "Full Stack Developer with 1 year of professional experience, graduated in Computer Engineering from Duoc UC. I specialize in scalable backend development, microservices architecture, and cloud deployments on GCP. I've worked on real-time data processing systems and async messaging workflows. Self-taught by nature, collaborative by choice — always looking to build robust, well-structured solutions. English B2 · Native Spanish.",
           "about_me": "About Me",
           "about_me_text": "I'm a curious and self-taught developer who genuinely enjoys understanding how things work under the hood. I like building my own projects, learning new technologies at my own pace, and growing both technically and as a person. I look for challenges that push me to sharpen my skills and contribute real solutions in collaborative, dynamic environments. Outside of work, I value personal balance — whether that's working out, exploring new hobbies, or just taking care of myself.",
           "skills": "Skills",
@@ -35,7 +35,7 @@ i18n
         translation: {
           "home": "Inicio",
           "home_title": "Hola, soy Giovanni Gonzalez",
-          "home_text": "Desarrollador Full Stack con 1 año de experiencia profesional, titulado en Ingeniería en Informática por Duoc UC. Me especializo en desarrollo backend escalable, arquitectura de microservicios y despliegue en GCP. He trabajado en sistemas de procesamiento de datos en tiempo real, flujos asíncronos con mensajería y validación de eventos con IA usando YOLO y Roboflow. Autodidacta por naturaleza, colaborativo por elección — siempre buscando construir soluciones técnicas robustas y bien estructuradas. Inglés B2 · Español nativo.",
+          "home_text": "Desarrollador Full Stack con 1 año de experiencia profesional, titulado en Ingeniería en Informática por Duoc UC. Me especializo en desarrollo backend escalable, arquitectura de microservicios y despliegue en GCP. He trabajado en sistemas de procesamiento de datos en tiempo real y flujos asíncronos con mensajería. Autodidacta por naturaleza, colaborativo por elección — siempre buscando construir soluciones técnicas robustas y bien estructuradas. Inglés B2 · Español nativo.",
           "about_me": "Sobre Mí",
           "about_me_text": "Soy una persona curiosa y autodidacta que disfruta entender cómo funcionan las cosas por dentro. Me gusta construir proyectos propios, aprender nuevas tecnologías a mi ritmo y crecer tanto en lo técnico como en lo personal. Busco desafíos que me permitan perfeccionar mis habilidades y aportar soluciones reales en entornos colaborativos y dinámicos. Fuera del trabajo, valoro el equilibrio personal: el ejercicio, los hobbies y el autocuidado.",
           "skills": "Habilidades",
