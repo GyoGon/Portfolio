@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <!-- Background -->
+  <rect width="600" height="300" fill="#0f172a" rx="12"/>
+
+  <!-- Title -->
+  <text x="300" y="48" text-anchor="middle" font-family="monospace" font-size="18" fill="#378ADD" font-weight="bold">OPM · Taller Mecánico PWA</text>
+
+  <!-- React pill -->
+  <rect x="40" y="80" width="110" height="40" rx="8" fill="#61DAFB" opacity="0.10" stroke="#61DAFB" stroke-width="1.5"/>
+  <text x="95" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dd3fc" font-weight="bold">React</text>
+
+  <!-- TypeScript pill -->
+  <rect x="165" y="80" width="130" height="40" rx="8" fill="#3178C6" opacity="0.15" stroke="#3178C6" stroke-width="1.5"/>
+  <text x="230" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#93c5fd" font-weight="bold">TypeScript</text>
+
+  <!-- Fastify pill -->
+  <rect x="310" y="80" width="110" height="40" rx="8" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="365" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#e2e8f0" font-weight="bold">Fastify</text>
+
+  <!-- PostgreSQL pill -->
+  <rect x="435" y="80" width="125" height="40" rx="8" fill="#336791" opacity="0.18" stroke="#336791" stroke-width="1.5"/>
+  <text x="497" y="105" text-anchor="middle" font-family="monospace" font-size="14" fill="#7dd3fc" font-weight="bold">PostgreSQL</text>
+
+  <!-- PWA pill -->
+  <rect x="40" y="140" width="80" height="40" rx="8" fill="#5a0fc8" opacity="0.18" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="80" y="165" text-anchor="middle" font-family="monospace" font-size="14" fill="#c4b5fd">PWA</text>
+
+  <!-- Cloud Run pill -->
+  <rect x="135" y="140" width="120" height="40" rx="8" fill="#4285F4" opacity="0.12" stroke="#4285F4" stroke-width="1.5"/>
+  <text x="195" y="165" text-anchor="middle" font-family="monospace" font-size="14" fill="#93c5fd">Cloud Run</text>
+
+  <!-- Cloud SQL pill -->
+  <rect x="270" y="140" width="120" height="40" rx="8" fill="#4285F4" opacity="0.12" stroke="#4285F4" stroke-width="1.5"/>
+  <text x="330" y="165" text-anchor="middle" font-family="monospace" font-size="14" fill="#93c5fd">Cloud SQL</text>
+
+  <!-- Firebase pill -->
+  <rect x="405" y="140" width="155" height="40" rx="8" fill="#FFCA28" opacity="0.12" stroke="#FFCA28" stroke-width="1.5"/>
+  <text x="482" y="165" text-anchor="middle" font-family="monospace" font-size="13" fill="#fde68a">Firebase Auth</text>
+
+  <!-- GCS pill -->
+  <rect x="40" y="200" width="80" height="40" rx="8" fill="#34A853" opacity="0.12" stroke="#34A853" stroke-width="1.5"/>
+  <text x="80" y="225" text-anchor="middle" font-family="monospace" font-size="14" fill="#86efac">GCS</text>
+
+  <!-- React Query pill -->
+  <rect x="135" y="200" width="135" height="40" rx="8" fill="#ef4444" opacity="0.12" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="202" y="225" text-anchor="middle" font-family="monospace" font-size="13" fill="#fca5a5">React Query</text>
+
+  <!-- pdfmake pill -->
+  <rect x="285" y="200" width="110" height="40" rx="8" fill="#64748b" opacity="0.18" stroke="#64748b" stroke-width="1.5"/>
+  <text x="340" y="225" text-anchor="middle" font-family="monospace" font-size="14" fill="#94a3b8">pdfmake</text>
+
+  <!-- GitHub Actions pill -->
+  <rect x="410" y="200" width="150" height="40" rx="8" fill="#a855f7" opacity="0.12" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="485" y="225" text-anchor="middle" font-family="monospace" font-size="13" fill="#d8b4fe">GitHub Actions</text>
+
+  <!-- Bottom label -->
+  <text x="300" y="278" text-anchor="middle" font-family="monospace" font-size="12" fill="#475569">Real Client · Full Stack · GCP</text>
+</svg>

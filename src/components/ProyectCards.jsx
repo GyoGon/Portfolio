@@ -5,6 +5,7 @@ import gastos from '../pages/img/gestion-gastos.svg';
 import comuniapp from '../pages/img/comuniapp.svg';
 import caf from '../pages/img/caf.svg';
 import spacio from '../pages/img/spacio.svg';
+import opm from '../pages/img/opm.svg';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 
@@ -27,6 +28,13 @@ const ProjectCard = () => {
             title: 'Backend Developer – Blackay',
             description: t('blackay_text'),
             image: blackay,
+            link: null,
+        },
+        {
+            id: 6,
+            title: 'OPM – Taller Mecánico',
+            description: t('opm_text'),
+            image: opm,
             link: null,
         },
         {
